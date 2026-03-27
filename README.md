@@ -26,8 +26,6 @@ Soy Técnica en Computación y estudiante de Ciencias de la Computación en la U
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
 </p>
 
-**Metodologías:** Scrum  
-**Productividad:** Excel, Google Sheets
 
 ## 📫 Contacto
 💼 LinkedIn: https://www.linkedin.com/in/carola-sabatino/<br>
