@@ -1,5 +1,5 @@
 ## Hola, soy Carola Sabatino👋
-Soy Técnica en Computación y estudiante de Ciencias de la Computación en la UBA, con un gran interés en la programación y el desarrollo frontend.
+Soy Técnica en Computación y estudiante de Ciencias de la Computación en la UBA, con un gran interés en la programación y el desarrollo de aplicaciones.
 
 ## 💻 Tecnologías
 
