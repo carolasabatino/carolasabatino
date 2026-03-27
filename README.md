@@ -29,7 +29,7 @@ Soy Técnica en Computación y estudiante de Ciencias de la Computación en la U
 **Metodologías:** Scrum  
 **Productividad:** Excel, Google Sheets
 
-## ☎️ Contacto
-- LinkedIn: https://www.linkedin.com/in/carola-sabatino/
-- Gmail: carolasabatino27@gmail.com
-- Ubicación: CABA, Argentina
+## 📫 Contacto
+💼 LinkedIn: https://www.linkedin.com/in/carola-sabatino/<br>
+📧 Gmail: carolasabatino27@gmail.com<br>
+📍 Ubicación: CABA, Argentina
