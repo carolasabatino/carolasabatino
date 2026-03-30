@@ -31,4 +31,5 @@ Soy Técnica en Computación y estudiante de Ciencias de la Computación en la U
 ## 📫 Contacto
 💼 LinkedIn: https://www.linkedin.com/in/carola-sabatino/<br>
 📧 Gmail: carolasabatino27@gmail.com<br>
+☎️ Teléfono: +54 9 11 3063-0560<br>
 📍 Ubicación: CABA, Argentina
